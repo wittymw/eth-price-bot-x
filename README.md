@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-Twitter - @wittymw (https://twitter.com/wittymw)
+Twitter - @0xwittymw (https://twitter.com/0xwittymw)
 
 Project Link: [https://github.com/wittymw/eth-price-bot-x]
 
